@@ -1,4 +1,3 @@
-
 def atm(d):
     if(d==0):
         print('account blocked')
